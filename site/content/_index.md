@@ -28,6 +28,7 @@ products:
       fall in love with in our shop.
 values:
   heading: Dans mon Musée
-  text: Retrouvez ici quelques oeuvres coup de coeur découverte dans une expo, un
+  text: >
+    Retrouvez ici quelques oeuvres coup de coeur découvertes dans une expo, un
     musée ou lors d'une ballade sur Internet.
 ---
