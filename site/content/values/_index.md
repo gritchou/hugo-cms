@@ -2,7 +2,7 @@
 title: Dans mon Musée
 image: img/musee2.jpg
 values:
-  - heading: "Der Dachstein vom Sophien-Doppelblick bei Ischl "
+  - heading: "Der Dachstein von Sophien-Doppelblick bei Ischl "
     text: |
       Le Dachstein depuis le 'Sophien-Doppeblick' près de Ischl
       (View of the Dachstein from the "Sophien-Doppelblick" near Ischl) 
