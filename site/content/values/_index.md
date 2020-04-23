@@ -28,7 +28,7 @@ values:
       (22x28 In)
 
 
-      A propos de Miam Situ : Peintre né à Canton en 1953 et installé aux Etats Unis, trés attaché à peindre la ruralité chinoise. J'admire la qualité de son traitementde la lumière.
+      A propos de Miam Situ : Peintre né à Canton en 1953 et installé aux Etats Unis, trés attaché à peindre la ruralité chinoise. J'admire la qualité de son traitement de la lumière.
 
     imageUrl: img/mian-situ-paintings-wooarts-02.jpg
   - heading: Reinvest profits
