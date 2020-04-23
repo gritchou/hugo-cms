@@ -1,9 +1,9 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
-image: img/ville-hiver.jpg
+title: Couleurs et peinture
+subtitle: Partage de mes petits bonheurs en peinture
+image: img/entete.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Pourquoi Terre de Cassel
   text: Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
