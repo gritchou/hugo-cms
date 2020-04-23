@@ -2,6 +2,22 @@
 title: Dans mon Musée
 image: img/musee2.jpg
 values:
+  - heading: Mr. Wilkenson - 2007
+    text: >-
+      Mr Wilkenson
+
+      de Kenton Nelson 2007
+
+      Huile sur Toile
+
+      92x92 cm
+
+      (36 x 36 in)
+
+      A propos de R. Kenton Nelson :
+
+      Peintre américain né en 1954. Dans une expression technique trés personnelle, il peint à la fois des objets, des paysages (essentiellement urbins et dans une ambiance qui me rappelle Hopper) et des personnages féminins dans l'esprit des années 50.
+    imageUrl: img/kenton_nelson_mr.wilkinson.jpg
   - heading: Der Dachstein von Sophien-Doppelblick bei Ischl  - 1835
     text: |
       Le Dachstein depuis le 'Sophien-Doppeblick' près de Ischl
@@ -31,11 +47,4 @@ values:
       A propos de Miam Situ : Peintre né à Canton en 1953 et installé aux Etats Unis, trés attaché à peindre la ruralité chinoise. J'admire la qualité de son traitement de la lumière.
 
     imageUrl: img/mian-situ-paintings-wooarts-02.jpg
-  - heading: Reinvest profits
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-reinvest-profits.jpg
 ---
