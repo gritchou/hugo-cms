@@ -28,7 +28,9 @@ products:
       fall in love with in our shop.
 values:
   heading: Dans mon Musée
-  text: >
+  text: >-
     Retrouvez ici quelques oeuvres coup de coeur découvertes dans une expo, un
     musée ou lors d'une ballade sur Internet.
+
+    https://www.terredecassel.com/img/kenton_nelson_mr.wilkinson.jpg
 ---
